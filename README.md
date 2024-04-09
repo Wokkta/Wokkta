@@ -9,6 +9,3 @@
 
 ##  Some stats
 ![Codewars](https://github.r2v.ch/codewars?user=Wokkta&stroke=%23)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wokkta)](https://github.com/anuraghazra/github-readme-stats)
-
